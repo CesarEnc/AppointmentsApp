@@ -1,12 +1,12 @@
 # Appointments App
 
-Basic app for saving appointments. Part of the course **React.js: Building an Interface** by **Ray Villalobos**.
+Developed a simple application to schedule appointments. Part of the course **React.js: Building an Interface** by **Ray Villalobos**.
 
 
 Tecnologies:
 
 * React (Create React App).
-* Tailwind (CSS framework ).
+* Tailwind (CSS framework).
 
 
 ## Installation
